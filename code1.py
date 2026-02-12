@@ -1,2 +1,2 @@
-print("hello from code1")
-print("a new message")
+print("Hello Wendy")
+print("yeahhhh")

@@ -1,11 +1,11 @@
 #Vote count
-V = input()
-s = input()
-b = s.count("A")
-c = s.count("B")
-if b > c:
+V = int(input())
+votes = input()
+count_A = votes.count('A')
+count_B = votes.count('B')
+if count_A > count_B:
     print("A")
-elif b < c:
+elif count_B > count_A:
     print("B")
-elif b == c:
-    print("tie")
+else:
+    print("Tie")

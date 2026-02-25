@@ -1,0 +1,2 @@
+Even number: 2
+Odd number: 0

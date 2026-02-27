@@ -1,7 +1,7 @@
 #For loop
 import sys
-sys.stdin = open("in.txt", "r")
-sys.stdout = open("out.txt", "w")
+sys.stdin = open("../2026-2-27/in.txt", "r")
+sys.stdout = open("../2026-2-27/out.txt", "w")
 
 n = int(input())
 even_count = 0

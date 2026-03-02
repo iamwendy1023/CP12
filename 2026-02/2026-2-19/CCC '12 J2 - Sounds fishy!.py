@@ -1,7 +1,7 @@
 #Sounds fishy
 import sys
 sys.stdin = open('in.txt', 'r')
-sys.stdout = open('out.txt','w')
+sys.stdout = open('out.txt', 'w')
 a = int(input())
 b = int(input())
 c = int(input())

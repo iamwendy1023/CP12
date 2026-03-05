@@ -1,5 +1,5 @@
 #range(n) 0,1,2,3,4...n-1
-#range(a,b)  a,a+1...b-1
+#range(a,b)  a,a+1...b
 #range(a,b,k)  a,a+k,a+2k...a+nk<b
 
 for i in range(0,11):
